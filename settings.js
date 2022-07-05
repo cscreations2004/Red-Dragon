@@ -24,7 +24,7 @@ My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your messag
 
 global.owner = ['+94 75 624 5548'] //Owner number in aive msg
 global.premium = ['+94 75 624 5548'] //Owner Number info
-global.ownernomer = '+94 75 624 5548' //Owner Number <<<
+global.ownernomer = ]'+94 75 624 5548'] //Owner Number <<<
 
 global.ownername = '😎CHANUPA OFFICIAL' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
