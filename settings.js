@@ -32,7 +32,7 @@ global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 global.button = '🤭YOUTUBE📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://www.youtube.com/channel/UCTfnoO8dqg7xxZAWtNHe3XQ' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'srilanka'//Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
 global.author = '😎CS_CREATIONS❯❯' //Author Name
